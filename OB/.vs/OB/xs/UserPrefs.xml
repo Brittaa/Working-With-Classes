@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{EB0D2027-D6D8-4E9E-94F0-B0A7342967CE}|Default">
+  <MonoDevelop.Ide.ItemProperties.Cars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OB PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OB/Program.cs">
+    <Files>
+      <File FileName="Cars/Program.cs" Line="19" Column="14" />
+      <File FileName="Cars/Car.cs" />
+      <File FileName="OB/Cat.cs" Line="1" Column="1" />
+      <File FileName="OB/Dog.cs" Line="1" Column="1" />
+      <File FileName="OB/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OB" expanded="True">
+            <Node name="Cars" expanded="True" />
+            <Node name="OB" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Person" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Person PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

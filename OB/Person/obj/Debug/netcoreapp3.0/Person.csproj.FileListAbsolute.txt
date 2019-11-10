@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/OB/OB/Person/bin/Debug/netcoreapp3.0/Person
+/Users/Britta/Desktop/OB/OB/Person/bin/Debug/netcoreapp3.0/Person.deps.json
+/Users/Britta/Desktop/OB/OB/Person/bin/Debug/netcoreapp3.0/Person.runtimeconfig.json
+/Users/Britta/Desktop/OB/OB/Person/bin/Debug/netcoreapp3.0/Person.runtimeconfig.dev.json
+/Users/Britta/Desktop/OB/OB/Person/bin/Debug/netcoreapp3.0/Person.dll
+/Users/Britta/Desktop/OB/OB/Person/bin/Debug/netcoreapp3.0/Person.pdb
+/Users/Britta/Desktop/OB/OB/Person/obj/Debug/netcoreapp3.0/Person.csprojAssemblyReference.cache
+/Users/Britta/Desktop/OB/OB/Person/obj/Debug/netcoreapp3.0/Person.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/OB/OB/Person/obj/Debug/netcoreapp3.0/Person.AssemblyInfo.cs
+/Users/Britta/Desktop/OB/OB/Person/obj/Debug/netcoreapp3.0/Person.dll
+/Users/Britta/Desktop/OB/OB/Person/obj/Debug/netcoreapp3.0/Person.pdb

@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/OB/OB/Cars/bin/Debug/netcoreapp3.0/Cars
+/Users/Britta/Desktop/OB/OB/Cars/bin/Debug/netcoreapp3.0/Cars.deps.json
+/Users/Britta/Desktop/OB/OB/Cars/bin/Debug/netcoreapp3.0/Cars.runtimeconfig.json
+/Users/Britta/Desktop/OB/OB/Cars/bin/Debug/netcoreapp3.0/Cars.runtimeconfig.dev.json
+/Users/Britta/Desktop/OB/OB/Cars/bin/Debug/netcoreapp3.0/Cars.dll
+/Users/Britta/Desktop/OB/OB/Cars/bin/Debug/netcoreapp3.0/Cars.pdb
+/Users/Britta/Desktop/OB/OB/Cars/obj/Debug/netcoreapp3.0/Cars.csprojAssemblyReference.cache
+/Users/Britta/Desktop/OB/OB/Cars/obj/Debug/netcoreapp3.0/Cars.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/OB/OB/Cars/obj/Debug/netcoreapp3.0/Cars.AssemblyInfo.cs
+/Users/Britta/Desktop/OB/OB/Cars/obj/Debug/netcoreapp3.0/Cars.dll
+/Users/Britta/Desktop/OB/OB/Cars/obj/Debug/netcoreapp3.0/Cars.pdb
